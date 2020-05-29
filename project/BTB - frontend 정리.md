@@ -1,6 +1,8 @@
 # BTB - frontend
 
-## 0. Logs 
+## 0. Logs  & references
+
+### 1) Logs
 
 * 0525
 
@@ -23,12 +25,62 @@
 
 2. signup 페이지 정보 추가
 
-3. 회원 정보 찾는 페이지 완성
+3. 비밀번호 변경 페이지 완성
 
 4. user 페이지 구조작업
 ```
 
+* 0527
 
+```
+1. todo
+	1) 비밀번호 변경 페이지 구성
+	2) validation check
+	3) http 통신
+		(1) login page
+		(2) signup page
+	4) main page css
+	
+2. progress
+
+3. complete
+```
+
+* 0528
+
+```
+1. todo
+	1) http 통신
+	2) main page css
+2. progress
+	1) validation check 중 gender, checkbox value 변경 문제
+3. complete
+	1) validation check
+```
+
+* 0529
+
+```
+1. todo
+	1) main page css
+2. progress
+	1) validation check 중 gender, checkbox value 변경 문제
+	2) http 통신
+
+3. complete
+```
+
+* 0530
+
+```
+1. todo
+
+2. progress
+
+3. complete
+```
+
+### 2) references
 
 
 
