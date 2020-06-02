@@ -40,6 +40,7 @@
 		(1) login page
 		(2) signup page
 	4) main page css
+	5) log-in 상태 유지
 	
 2. progress
 
@@ -52,6 +53,7 @@
 1. todo
 	1) http 통신
 	2) main page css
+	3) log-in 상태 유지
 2. progress
 	1) validation check 중 gender, checkbox value 변경 문제
 3. complete
@@ -63,6 +65,7 @@
 ```
 1. todo
 	1) main page css
+	2) log-in 상태 유지
 2. progress
 	1) validation check 중 gender, checkbox value 변경 문제
 	2) http 통신
@@ -80,7 +83,45 @@
 3. complete
 ```
 
+* 0601
+
+```
+1. todo
+	1) userexam page 구현
+	2) userexamresult page 구현
+	3) user css
+
+2. progress
+	1) userprofile page 구현
+	2) router 구현
+
+3. compolete
+```
+
+* 0602
+
+```
+1. todo
+	1) userexamresult page 구현
+2. progress
+	1) router 구현
+	2) userexam page 구현
+3. compolete
+	1) userprofile page 구현
+```
+
+
+
+
+
 ### 2) references
+
+* [Redux 개념]([https://medium.com/@ljs0705/redux%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EC%9E%90-7c9e8de0ab7f](https://medium.com/@ljs0705/redux를-이해하자-7c9e8de0ab7f))
+* [React와 Redux 개념](https://d2.naver.com/helloworld/1848131)
+* [login 및 sign up 기능 구현]([https://medium.com/@yms0214/2%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EA%B8%B0%EB%8A%A5-bfbbfa1e9ccc](https://medium.com/@yms0214/2주-프로젝트-로그인-회원가입-기능-bfbbfa1e9ccc))
+* [login 관련 인증처리](https://pro-self-studier.tistory.com/118)
+
+
 
 
 
